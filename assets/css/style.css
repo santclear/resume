@@ -269,14 +269,16 @@ h6 {
   color: #fff;
 }
 
-#hero p {
+#hero .designation-i18 {
   color: #fff;
-  margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
+  color: #fff;
+  margin-bottom: 50px;
+  font-family: "Poppins", sans-serif;
   color: #fff;
   padding-bottom: 4px;
   letter-spacing: 1px;
