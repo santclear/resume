@@ -364,6 +364,7 @@ function updateContent() {
         translateElementsByClass('birthday-i18', 'birthday');
         translateElementsByClass('age-i18', 'age');
         translateElementsByClass('phone-i18', 'phone');
+        translateElementsByClass('i-have-xp-in-i18', 'i-have-xp-in');
     } else {
         console.warn('i18next not initialized yet');
     }
