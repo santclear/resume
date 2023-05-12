@@ -259,6 +259,7 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
+  padding: 10px;
 }
 
 #hero h1 {
@@ -286,12 +287,10 @@ h6 {
 
 #hero p span:nth-of-type(2) {
   color: #fff;
-  margin-bottom: 50px;
   font-family: "Poppins", sans-serif;
   color: #fff;
-  padding-bottom: 4px;
-  letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
+  letter-spacing: 1px;
 }
 
 @media (min-width: 1024px) {
